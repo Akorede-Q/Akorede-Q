@@ -8,7 +8,7 @@
 
 </div>
 
-## 🚀 About me
+## 🚀 About Me
 Forward‑thinking, curious, and hands‑on entry‑level data analyst. I turn messy data into clear, actionable insights through cleaning, preprocessing, transformation, and compelling visualizations. Comfortable with Python, SQL, Excel, and Power BI, with experience using Google Cloud tools plus marketing analytics via Google Analytics and Google Tag Manager.
 
 ## 🎯 What I’m doing
@@ -16,12 +16,12 @@ Forward‑thinking, curious, and hands‑on entry‑level data analyst. I turn m
 - Creating interactive reports in Power BI and Excel
 - Practicing robust data‑wrangling pipelines in Python and SQL
 
-## 🔧 Currently learning
+## 🔧 Currently Learning
 - Advanced SQL (CTEs, window functions)
 - Practical statistics for analysis
 - Google Cloud fundamentals for analytics workflows
 
-## 🖥️ Open to
+## 🖥️ Open To
 - Entry‑level roles, internships, and collaborations on data projects
 - Freelance: data cleaning, visualization, and reporting
 
@@ -46,7 +46,7 @@ Forward‑thinking, curious, and hands‑on entry‑level data analyst. I turn m
 
 </div>
 
-## 🏆 Featured work
+## 🏆 Featured Work
 ### ⚖️ [Mantra Attorney - Law Firm Platform](https://github.com/Gaius-Okoase/mantra-attorney-website)
 
 Product Analyst Lead | Hackathon
@@ -57,11 +57,14 @@ A comprehensive law firm management platform with advanced booking and file mana
 
 - 
 
-## 📊 GitHub analytics
+## 📊 GitHub Analytics
 <div align="center">
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Akorede-Q&show_icons=true&theme=tokyonight&hide_border=true" />
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akorede-Q&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ## 🤝 Connect
-Want to collaborate or have an opportunity in mind? Open an issue on this repo or reach out via LinkedIn/email (happy to add links here on request).
+Want to collaborate or have an opportunity in mind? Open an issue on this repo or reach out via LinkedIn/email.
+
+[![Linkedln](https://img.shields.io/badge/Linkedln-0A66C2?style=for-the-badge%logo=linkedin%logoColor=white)](https://www.linkedin.com/in/akoredewaheed/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge%logo=gmail&logoColor=White)](mailto:waheedakorede0@gmail.com)
