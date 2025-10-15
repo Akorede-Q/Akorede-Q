@@ -47,8 +47,7 @@ Forward‑thinking, curious, and hands‑on entry‑level data analyst. I turn m
 </div>
 
 ## Featured work
-
-- Mantra Attorney law firm — Contributor. [Repository](https://github.com/droyalpen/MantraAttorney)
+I’m actively building portfolio projects (EDA, dashboards, insights). Pins coming soon!
 
 ## GitHub analytics
 <div align="center">
