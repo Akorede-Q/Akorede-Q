@@ -47,7 +47,8 @@ A data analyst who turns messy data into actionable insights. I thrive on Excel,
 </div>
 
 ## Featured work
-I’m actively building portfolio projects (EDA, dashboards, insights). Pins coming soon!
+
+- Mantra Attorney law firm — Contributor. [Repository](https://github.com/droyalpen/MantraAttorney)
 
 ## GitHub analytics
 <div align="center">
