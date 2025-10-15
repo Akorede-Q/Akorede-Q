@@ -47,7 +47,7 @@ Forward‑thinking, curious, and hands‑on entry‑level data analyst. I turn m
 </div>
 
 ## Featured work
-[Mantra Attorney - Law Firm Platform[(https://github.com/Gaius-Okoase/mantra-attorney-website)
+[Mantra Attorney - Law Firm Platform] (https://github.com/Gaius-Okoase/mantra-attorney-website)
 *Product Analyst Lead*
 
 ## GitHub analytics
