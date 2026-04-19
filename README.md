@@ -9,7 +9,7 @@
 </div>
 
 ## 🚀 About Me
-Forward‑thinking, curious, and hands‑on entry‑level data analyst. I turn messy data into clear, actionable insights through cleaning, preprocessing, transformation, and compelling visualizations. Comfortable with Python, SQL, Excel, and Power BI, with experience using Google Cloud tools plus marketing analytics via Google Analytics and Google Tag Manager.
+Forward‑thinking, curious, and hands‑on data/growth analyst. I turn messy data into clear, actionable insights through cleaning, preprocessing, transformation, and compelling visualizations. Comfortable with Python, SQL, Excel, and Power BI, with experience using Google Cloud tools plus marketing analytics via Google Analytics and Google Tag Manager.
 
 ## 🎯 What I’m doing
 - Building portfolio projects that showcase EDA, KPI tracking, and storytelling dashboards
